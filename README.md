@@ -54,6 +54,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 - LinkedIn: [alizaali94](https://www.linkedin.com/in/aliza-ali94/)
 - Facebook: [aliza.ali9490](https://www.facebook.com/aliza.ali949/)
 - Instagram: [Itz_me_Alizay](https://www.instagram.com/itzmealizay9490/)
+- Stack Overflow: [Aliza Ali](https://stackoverflow.com/users/24469267/aliza-ali)
 
 Let's connect and build something amazing together! 😊
 
