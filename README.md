@@ -1,4 +1,5 @@
 # Welcome to My GitHub Profile 👋
+
 <img align="right" alt="ALIZA ALI" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/151018015?v=4&h=250&w=250&fit=cover&mask=circle&maxage=7d"/>
 Hi 👋, there! I'm ALIZA ALI (@alizaali9), a passionate Full-Stack Developer 👀 with a focus on building engaging and efficient websites and applications. I specialize in frontend development, leveraging technologies like HTML, CSS, JavaScript, and frameworks 🌱 such as Flutter and React Native for mobile app development. On the backend, I excel in using Laravel to create robust and scalable web solutions. <br><br>
 
