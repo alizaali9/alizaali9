@@ -31,7 +31,7 @@ Hi 👋, there! I'm ALIZA ALI (@alizaali9), a passionate Full-Stack Developer �
 
 ## My Github Profile Stats 📈
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alizaali9&show_icons=true&theme=gotham" alt="alizaali9" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=stackmasteraliza&show_icons=true&theme=gotham" alt="stackmasteraliza" />
 
 ## Get in Touch
 
