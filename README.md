@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-Hi 👋, there! I'm ALIZA ALI (@alizaali9), a passionate Full-Stack Developer 👀 with a focus on building engaging and efficient websites and applications. I specialize in frontend development, leveraging technologies like HTML, CSS, JavaScript, and frameworks 🌱 such as Flutter and React Native for mobile app development. On the backend, I excel in using Laravel to create robust and scalable web solutions. <br><br>
+Hi 👋, there! I'm ALIZA ALI (@stackmasteraliza), a passionate Full-Stack Developer 👀 with a focus on building engaging and efficient websites and applications. I specialize in frontend development, leveraging technologies like HTML, CSS, Bootstrap, JavaScript, and frameworks 🌱 such as React Js, Flutter and React Native for mobile app development. On the backend, I excel in using Laravel to create robust and scalable web solutions. <br><br>
 
 - 💞️ I’m looking to collaborate on innovative web and mobile app projects
 - 📫 You can reach me via email at [alizaali9490@gmail.com](mailto:alizaali9490@gmail.com) & [captainaliza9490@gmail.com](mailto:captainaliza9490@gmail.com)
