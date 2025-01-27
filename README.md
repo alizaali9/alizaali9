@@ -38,10 +38,10 @@ Hi 👋, there! I'm ALIZA ALI (@alizaali9), a passionate Full-Stack Developer �
 I'm always open to collaborating on interesting projects or discussing new ideas. You can reach out to me via:
 
 - Email: [alizaali9490@gmail.com](mailto:alizaali9490@gmail.com) & [captainaliza9490@gmail.com](mailto:captainaliza9490@gmail.com)
-- LinkedIn: [alizaali94](https://www.linkedin.com/in/aliza-ali94/)
-- Facebook: [aliza.ali9490](https://www.facebook.com/aliza.ali949/)
-- Instagram: [Itz_me_Alizay](https://www.instagram.com/itzmealizay9490/)
-- Stack Overflow: [Aliza Ali](https://stackoverflow.com/users/24469267/aliza-ali)
+- LinkedIn: [stackmasteraliza](https://www.linkedin.com/in/stackmasteraliza/)
+- Facebook: [stackmasteraliza](https://www.facebook.com/stackmasteraliza/)
+- Instagram: [stackmasteraliza](https://www.instagram.com/stackmasteraliza/)
+- Stack Overflow: [stackmasteraliza](https://stackoverflow.com/users/29378422/stack-master-aliza)
 
 Let's connect and build something amazing together! 😊
 
